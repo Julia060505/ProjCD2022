@@ -1,1 +1,1 @@
-[Curiosidades] , _Nome: Júlia Carneiro Novaes_ , _Prato favorito: Arroz e feijão_
+**Gosto de assistir filmes séries repetidas e não enjoo**
