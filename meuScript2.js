@@ -1,1 +1,1 @@
-alert("Prática concluída com sucesso!")
+alert("Prática concluída com sucesso!") 
