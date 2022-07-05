@@ -1,1 +1,1 @@
-alert('Ativ. Intro JS')
+alert("Prática concluida com sucesso")
