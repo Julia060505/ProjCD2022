@@ -2,6 +2,8 @@ const readline = require ('readline');
 
 const Interface = readline.createInterface({input:process.stdin,output:process.stdout});
 
+//   QUESTÃO 2 (25/07)
+
 let menor = 0
 let maior = 0
 

@@ -1,4 +1,6 @@
- rs = require ('readline-sync');
+  rs = require ('readline-sync');
+
+  //   QUESTÃO 1 (25/07)
 
  palavra = rs.question('Ola, digite uma palavra:')
 
